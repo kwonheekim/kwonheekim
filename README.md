@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @kwonheekim\\\asdad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 React / JavaScript, TypeScript 기반의 5년 차 프론트엔드 개발자 김권희입니다.
+5년 차 웹 개발자로, 배우 캐스팅 플랫폼 스타트업에서 B2B, B2C, 백오피스의 개발/배포/운영을 해왔습니다. 
+두 차례에 걸친 서비스 리뉴얼을 주도했고, UI/UX 개선을 위한 기술 적용부터 사용자 피드백 분석까지 전 과정을 직접 수행하며 실무 역량을 다져왔습니다.
 
-<!---
-kwonheekim/kwonheekim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TypeScript, React(Next.js) 기반의 프론트엔드를 주로 다루며, 아키텍트, 백엔드, 인프라 엔지니어링 등 고객 경험 개선에 기여할 수 있는 부분이 있다면 구분 없이 참여하는 것을 좋아합니다. 
+최근에는 불필요한 재렌더링 최소화, 번들 사이즈 최적화 등을 통해 다양한 환경의 고객이 서비스를 원활하게 이용할 수 있도록 프론트엔드 성능 개선에 집중하고 있습니다.
+
+혼자서 모든 걸 해내는 것보다, 함께 시너지를 내는 협업의 가치를 중요하게 생각하며, 빠르게 새로운 기술을 습득하고 실제 서비스에 적용하는 데 강점을 가지고 있습니다.
+특히, 초기 스타트업에 합류해 1년 만에 프라이머 투자를 유치하는 성과를 함께했고, 다양한 실무 환경 속에서 기획 의도에 맞는 사용자 경험을 구현하고, 그에 적합한 기술을 선택하는 판단력을 키웠습니다.
+
+플랫폼 서비스의 운영과 리뉴얼 과정을 통해, 프론트엔드 개발이 비즈니스 성과와 얼마나 밀접하게 연결되어 있는지를 체감했고, 실제로 개선을 주도하며 변화를 만들어낸 경험이 있습니다.
+앞으로도 사용자 중심의 인터페이스를 끊임없이 고민하고, 기술적 성장과 팀의 방향성에 기여할 수 있는 프론트엔드 개발자로 계속해서 성장해 나가고자 합니다.
